@@ -1,12 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Hind|Slabo+27px');
+
 html,h1,h2{
-	font-family: 'Bree Serif', serif;
+	font-family: 'Slabo 27px',Arial, serif;
 }
 
 body{
-font-family: 'Open Sans', sans-serif;
-	background-color:#FFF8F5;
+font-family: 'Hind',Helvetica, sans-serif;
+	background-color:#FF8E8B;
 }
 h1,h2{
-	background-color:#;
+	background-color:#E8D087;
 	text-align: center;
+}
+footer{
+    color: black;
 }
